@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+ }
+
+header {
+}
+
+.menu h1 {
+    font-size: 20px;
+}
+
+.menu {
+  border: 1px solid black;
+}
+
+.menu li {
+  list-style: none;
+}
